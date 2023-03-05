@@ -6,4 +6,4 @@ _ Data Churi Kora H0ga Diye Dibo Motherc*od
 ## Commands 
 git clone https://github.com/MAK-GANG/CYBER-505
 cd CYBER-505
-python.... py
+python FILE-CLONE.py
